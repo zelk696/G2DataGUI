@@ -1,14 +1,14 @@
-1	
-2	
-3	
-4	
-5	
-6	
-6	
-7	
-8	
-9	
-10	
+1	 (Adventure Book / Holy Egg)
+2	 (Book of Wizards / Chaos Egg)
+3	 (Book of Warriors / Mist Egg)
+4	 (Book of Priests / Gravity Egg)
+5	 (Book of Gales / Soul Egg)
+6	 (Book of Swords / Star Egg)
+6	 (?)
+7	 (Book of War / Tutor Egg)
+8	 (Book of Sages / Change Egg)
+9	 (Book of Learning / Fairy Egg)
+10	(Dragon Egg)
 11	(Howlnado)
 12	Gravity
 13	(Droplet of Life, Vitality March)
